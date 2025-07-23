@@ -1,3 +1,6 @@
+# GDLauncher Carbon with no ads
+Install node, pnpm, rustc and cargo (via rustup), run build.sh (linux) or build.bat (windows), go to apps/desktop/release/(linux / win)-unpacked/resources and replace the existing GDLauncher app.asar with the one in this folder
+
 # GDLauncher (Carbon)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 ![Discord](https://img.shields.io/discord/398091532881756161)
